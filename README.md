@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jinshuo Xia
+# 👋 ¡Hola mundo! Soy Jinshuo Xia
 
 ### 🚀 Desarrollador/a Full Stack | Apasionado/a por crear soluciones completas, del backend al frontend.
 
