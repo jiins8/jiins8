@@ -37,7 +37,7 @@ Soy un/a desarrollador/a Full Stack con experiencia construyendo aplicaciones we
 
 ### 📫 Cómo contactarme
 
-- 📧 Email: [jinshuo.xia8@gmail.com]
+- 📧 [jinshuo.xia8@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/jinshuo-xia/)
 - 🌐 [Portafolio](https://portfolio-v2-eosin-psi.vercel.app/)
 
