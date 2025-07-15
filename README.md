@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**jiins8/jiins8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador/a Full Stack | Apasionado/a por crear soluciones completas, del backend al frontend.
 
-Here are some ideas to get you started:
+Soy un/a desarrollador/a Full Stack con experiencia construyendo aplicaciones web modernas, escalables y bien diseñadas. Me encanta trabajar con tecnologías como JavaScript, Node.js, React y bases de datos relacionales y no relacionales. Siempre estoy aprendiendo nuevas herramientas y mejores prácticas para mejorar cada línea de código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías & Herramientas
+
+**Frontend:**
+- HTML, CSS, JavaScript (ES6+)
+- React, Next.js
+- Tailwind CSS, Sass
+
+**Backend:**
+- Node.js, Express
+- REST APIs, GraphQL
+
+**Bases de datos:**
+- MongoDB, PostgreSQL, MySQL
+
+**DevOps / Otros:**
+- Git & GitHub
+- Docker
+- CI/CD
+- Vercel, Netlify, Render
+
+---
+
+### 📂 Algunos de mis proyectos destacados
+
+- 🔗 [Nombre del Proyecto 1](URL) – Breve descripción del proyecto, tecnologías usadas.
+- 🔗 [Nombre del Proyecto 2](URL) – Otra descripción breve.
+- 🔗 [Nombre del Proyecto 3](URL) – Si tienes un portfolio, colócalo aquí también.
+
+---
+
+### 📫 Cómo contactarme
+
+- 📧 Email: [tu.email@ejemplo.com]
+- 💼 LinkedIn: [tu-perfil-linkedin](https://linkedin.com/in/tu-perfil)
+- 🌐 Portafolio: [tusitio.com](https://tusitio.com)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar o necesitas un desarrollador/a para tu equipo, ¡no dudes en escribirme!
