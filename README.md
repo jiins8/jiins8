@@ -1,8 +1,11 @@
 # 👋 Hello world! I'm Jinshuo Xia
 
-### 🚀 Full Stack Developer | Passionate about building complete solutions from backend to frontend.
+I'm a Full Stack Developer with a strong foundation in both frontend and backend technologies. I enjoy building responsive web applications, creating intuitive user interfaces, and working with databases and APIs to develop complete, user-focused solutions.
 
-I'm a Full Stack Developer with experience in building modern, scalable, and well-designed web applications. I enjoy working with technologies like JavaScript, Node.js, React, and both relational and non-relational databases. I'm always learning new tools and best practices to improve every line of code.
+I love learning and continuously improving.
+
+Outside of coding, I enjoy working out to stay active and healthy.
+My favorite hobby is trying new food — I'm always excited to discover different cuisines and flavors.
 
 ---
 
