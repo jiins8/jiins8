@@ -1,4 +1,4 @@
-# 👋 Hello world! I'm Jinshuo Xia
+# Hello world!👋  I'm Jinshuo Xia
 
 I'm a Full Stack Developer with a strong foundation in both frontend and backend technologies. I enjoy building responsive web applications, creating intuitive user interfaces, and working with databases and APIs to develop complete, user-focused solutions.
 
@@ -7,8 +7,7 @@ I love learning and continuously improving.
 Outside of coding, I enjoy working out to stay active and healthy.
 My favorite hobby is trying new food — I'm always excited to discover different cuisines and flavors.
 
----
-
+# My Stack
 ### 👨‍💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -36,16 +35,14 @@ My favorite hobby is trying new food — I'm always excited to discover differen
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+# Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiins8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jiins8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiins8&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiins8&layout=compact&theme=radical" />
 </div>
 
-###
-
-### 📫 How to reach me
+# 📫 How to reach me
 
 - 📧 jinshuo.xia8@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jinshuo-xia/)  
