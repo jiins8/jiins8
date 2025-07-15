@@ -15,10 +15,10 @@ Soy un/a desarrollador/a Full Stack con experiencia construyendo aplicaciones we
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧰 Herramientas y Control de Versiones
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### ☁️ Plataformas Backend & Hosting
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -37,7 +37,7 @@ Soy un/a desarrollador/a Full Stack con experiencia construyendo aplicaciones we
 
 ### 📫 Cómo contactarme
 
-- 📧 [jinshuo.xia8@gmail.com]
+- 📧 jinshuo.xia8@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/jinshuo-xia/)
 - 🌐 [Portafolio](https://portfolio-v2-eosin-psi.vercel.app/)
 
