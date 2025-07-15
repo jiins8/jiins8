@@ -16,7 +16,13 @@ Soy un/a desarrollador/a Full Stack con experiencia construyendo aplicaciones we
 
 ### 🧰 Herramientas y Control de Versiones
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### ☁️ Plataformas Backend & Hosting
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 📱 Desarrollo Móvil y Videojuegos
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -26,34 +32,6 @@ Soy un/a desarrollador/a Full Stack con experiencia construyendo aplicaciones we
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-### 🛠️ Tecnologías & Herramientas
-
-**Frontend:**
-- HTML, CSS, JavaScript (ES6+)
-- React, Next.js
-- Tailwind CSS, Sass
-
-**Backend:**
-- Node.js, Express
-- REST APIs, GraphQL
-
-**Bases de datos:**
-- MongoDB, PostgreSQL, MySQL
-
-**DevOps / Otros:**
-- Git & GitHub
-- Docker
-- CI/CD
-- Vercel, Netlify, Render
-
----
-
-### 📂 Algunos de mis proyectos destacados
-
-- 🔗 [Nombre del Proyecto 1](URL) – Breve descripción del proyecto, tecnologías usadas.
-- 🔗 [Nombre del Proyecto 2](URL) – Otra descripción breve.
-- 🔗 [Nombre del Proyecto 3](URL) – Si tienes un portfolio, colócalo aquí también.
 
 ---
 
