@@ -38,9 +38,9 @@ Soy un/a desarrollador/a Full Stack con experiencia construyendo aplicaciones we
 
 ### 📫 Cómo contactarme
 
-- 📧 Email: [tu.email@ejemplo.com]
-- 💼 LinkedIn: [tu-perfil-linkedin](https://linkedin.com/in/tu-perfil)
-- 🌐 Portafolio: [tusitio.com](https://tusitio.com)
+- 📧 Email: [jinshuo.xia8@gmail.com]
+- 💼 LinkedIn: [tu-perfil-linkedin](https://www.linkedin.com/in/jinshuo-xia/)
+- 🌐 Portafolio: [tusitio.com](https://portfolio-v2-eosin-psi.vercel.app/)
 
 ---
 
