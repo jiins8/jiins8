@@ -5,7 +5,7 @@ I'm a Full Stack Developer with a strong foundation in both frontend and backend
 I love learning and continuously improving.
 
 Outside of coding, I enjoy working out to stay active and healthy.
-My favorite hobby is trying new food — I'm always excited to discover different cuisines and flavors.
+My favorite hobby is trying new food. I'm always excited to discover different cuisines and flavors.
 
 # My Stack
 ### 👨‍💻 Programming Languages  
