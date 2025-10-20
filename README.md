@@ -38,7 +38,7 @@ My favorite hobby is trying new food. I'm always excited to discover different c
 
 
 ### 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinshuo-xia&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiins8&layout=compact&theme=radical)
 
 # 📫 How to reach me
 
