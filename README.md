@@ -37,6 +37,9 @@ My favorite hobby is trying new food. I'm always excited to discover different c
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+### 📊 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinshuo-xia&layout=compact&theme=radical)
+
 # 📫 How to reach me
 
 - 📧 jinshuo.xia8@gmail.com  
