@@ -44,7 +44,7 @@ My favorite hobby is trying new food. I'm always excited to discover different c
 
 - 📧 jinshuo.xia8@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jinshuo-xia/)  
-- 🌐 [Portfolio]([https://portfolio-v2-eosin-psi.vercel.app/](https://portfolio-angular-ochre-xi.vercel.app/))
+- 🌐 [Portfolio](https://portfolio-angular-ochre-xi.vercel.app/)
 
 ---
 
